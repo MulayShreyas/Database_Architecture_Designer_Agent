@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Database Architect Agent
 
 An AI-powered database schema generation tool that converts natural language descriptions into complete database schemas with interactive visualization.
@@ -148,3 +149,6 @@ MIT License
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+=======
+# Database_Architecture_Designer_Agent
+>>>>>>> 1a37a0800ae1c215b0a385cfb87ac1a4ce7af80c
